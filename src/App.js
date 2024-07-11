@@ -1,6 +1,8 @@
 import Header from "./components/Header";
-import Projects from "./components/Main";
-import Footer from "./components/Footer"
+import Main from "./components/Main";
+import Footer from "./components/Footer";
+import Banner from "./components/Banner";
+
 
 const App = () => {
 
@@ -9,7 +11,9 @@ const App = () => {
             <Header>
 
             </Header>
-            <Projects></Projects>
+            <Banner></Banner>
+            <Main></Main>
+            
             <Footer></Footer>
             
         </div>
