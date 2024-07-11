@@ -1,0 +1,5 @@
+.divider {
+    border-top: 1px dashed rgb(28,49,68,.8);
+    padding: 10px 0 5px 0;
+    margin-bottom: 25px;
+}
